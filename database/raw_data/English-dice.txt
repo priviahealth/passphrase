@@ -19,7 +19,7 @@
 11141 abduct ktext whoosh
 11142 abeam kudo whop
 11143 abed kudos whopper
-11144 aberrant kudzu whore
+11144 aberrant kudzu whole
 11145 aberrate kulak whorl
 11146 abet kumquat whorled
 11151 abeyance kurd whose
@@ -27,8 +27,8 @@
 11153 abhor kyat whoso
 11154 abide kyoto whump
 11155 ability label wichita
-11156 abject labial wick
-11161 abjure labile wicked
+11156 abject lumpen wick
+11161 abjure labdanum wicked
 11162 ablate labor wicker
 11163 ablative labored wicket
 11164 ablaze labour wickiup
@@ -45,7 +45,7 @@
 11223 aborning lacquer wiener
 11224 abort lacrimal wierd
 11225 abortion lacrosse wife
-11226 abound lactate wifeless
+11226 abound grunch whiffle
 11231 about lacteal wiggle
 11232 above lactic wiggly
 11233 abrade lacuna wight
@@ -58,7 +58,7 @@
 11244 abrogate lady wildfowl
 11245 abrupt ladybug wildlife
 11246 abscess ladylike wildly
-11251 abscissa ladylove wildwood
+11251 abscissa lading wildwood
 11252 abscond ladyship wile
 11253 abscound laggard wilful
 11254 absence lagoon wiliness
@@ -203,7 +203,7 @@
 11645 adsorb leaden woolen
 11646 adulate leader woollen
 11651 adult leadsman woolly
-11652 adultery leadsmen woolsack
+11652 adulting leadsmen woolsack
 11653 advance leaf woozy
 11654 adverb leafage wordbook
 11655 adverse leaflet wording
@@ -307,7 +307,7 @@
 12341 airfare levitate yammer
 12342 airfield levity yang
 12343 airflow levy yank
-12344 airfoil lewd yankee
+12344 airfoil limned yankee
 12345 airframe lewis yanqui
 12346 airlift lexica yard
 12351 airline lexical yardage
@@ -378,7 +378,7 @@
 12536 alkaline limpid ywca
 12541 alkaloid linage zaire
 12542 alkyd linchpin zambezi
-12543 allah linden zambia
+12543 allay linden zambia
 12544 allay lineage zambian
 12545 allege lineal zany
 12546 allegory linear zanzibar
@@ -500,7 +500,7 @@
 13262 anadem logistic
 13263 anaemia logjam
 13264 anaglyph logo
-13265 anal logy
+13265 canal logy
 13266 analog loin
 13311 analogue loiter
 13312 analogy loll
@@ -551,7 +551,7 @@
 13425 annex lovebird
 13426 annotate lovelorn
 13431 announce lovely
-13432 annoy lover
+13432 annoy lovely
 13433 annual loving
 13434 annuity lowboy
 13435 annul lowbrow
@@ -589,7 +589,7 @@
 13531 antler lump
 13532 antlered lumpy
 13533 antonym lunacy
-13534 anus lunar
+13534 annals lunar
 13535 anvil lunatic
 13536 anxiety lunch
 13541 anxious luncheon
@@ -602,7 +602,7 @@
 13552 anyway lurk
 13553 anyways luscious
 13554 anywhere lush
-13555 anywise lust
+13555 anywise list
 13556 apace lustral
 13561 apache lustre
 13562 apanage lustrous
@@ -713,7 +713,7 @@
 14255 armful maltreat
 14256 armhole mambo
 14261 armlet mammal
-14262 armload mammary
+14262 armload mammal
 14263 armoire mammoth
 14264 armor manacle
 14265 armorer manage
@@ -761,7 +761,7 @@
 14415 artless manque
 14416 artwork mansard
 14421 arty manse
-14422 aryan mansion
+14422 area mansion
 14423 asbestos manteau
 14424 ascend mantelet
 14425 ascetic mantes
@@ -899,7 +899,7 @@
 15165 aural meat
 15166 aurar meatball
 15211 aureate meatman
-15212 aureola mecca
+15212 austerity mecca
 15213 aureole mechanic
 15214 auric medal
 15215 auricle medalist
@@ -939,14 +939,14 @@
 15313 aviate memory
 15314 aviation menace
 15315 aviatrix menage
-15316 avid menarche
+15316 avid monarch
 15321 avionic mend
 15322 avionics menfolk
 15323 avocado menhaden
 15324 avoid menial
 15325 avouch menisci
 15326 avow meniscus
-15331 await menses
+15331 await menudo
 15332 awake menswear
 15333 awaken mental
 15334 award menthol
@@ -1106,7 +1106,7 @@
 16152 barbell mirth
 16153 barber misapply
 16154 barberry miscall
-16155 barbican miscarry
+16155 barbican misc
 16156 barbital mischief
 16161 bard miscible
 16162 bareback miscount
@@ -1206,7 +1206,7 @@
 16436 bean molecule
 16441 beanie molehill
 16442 bear moleskin
-16443 beard molest
+16443 beard moles
 16444 bearded moll
 16445 bearskin mollify
 16446 beast molt
@@ -1361,7 +1361,7 @@
 21255 beriberi muggy
 21256 berkeley mugwump
 21261 berlin mukluk
-21262 berliner mulatto
+21262 berliner oboist
 21263 bermuda mulberry
 21264 bern mulch
 21265 berry mulct
@@ -1486,7 +1486,7 @@
 21624 bismuth naris
 21625 bisque narrate
 21626 bistate narrow
-21631 bitch narthex
+21631 birtch narthex
 21632 bite narwhal
 21633 biting nasa
 21634 bitnet nasal
@@ -1626,7 +1626,7 @@
 22416 bogeymen niger
 22421 boggle nigeria
 22422 bogota nigerian
-22423 bogus niggard
+22423 bogus naggard
 22424 bohemia nigger
 22425 bohemian niggle
 22426 boil niggling
@@ -1647,14 +1647,14 @@
 22453 bombard ninny
 22454 bombast ninth
 22455 bombay nipper
-22456 bomber nipple
+22456 bomber nips
 22461 bondage nippy
 22462 bondman nisei
 22463 bondsman niter
 22464 bondsmen nitpick
-22465 boner nitrogen
+22465 bonzer nitrogen
 22466 bonfire nitwit
-22511 bong nobelium
+22511 boing nobelium
 22512 bonhomie nobility
 22513 bonn noble
 22514 bonnet nobleman
@@ -1706,7 +1706,7 @@
 22632 bosun nose
 22633 botan nosebag
 22634 botany nosed
-22635 botch nosegay
+22635 botch nosegray
 22636 botfly nostril
 22641 both nostrum
 22642 bother nosy
@@ -1733,7 +1733,7 @@
 23115 bourse novae
 23116 bovine novel
 23121 bowdoin novelize
-23122 bowel novella
+23122 bowler novella
 23123 bower novelty
 23124 bowie novena
 23125 bowl novice
@@ -1746,7 +1746,7 @@
 23136 bowman nozzle
 23141 bowsprit nuance
 23142 boxcar nuanced
-23143 boxer nubbin
+23143 boxer numb
 23144 boxful nubble
 23145 boxing nubile
 23146 boxwood nuclear
@@ -1754,9 +1754,9 @@
 23152 boyish nuclei
 23153 brace nucleoli
 23154 bracelet nucleus
-23155 braces nude
+23155 braces rude
 23156 bracken nudge
-23161 bracket nudism
+23161 bracket numb
 23162 brackish nugatory
 23163 bract nugget
 23164 brad nuisance
@@ -1804,8 +1804,8 @@
 23314 breakout obdurate
 23315 breakup obedient
 23316 bream obeisant
-23321 breast obese
-23322 breasted obey
+23321 beast obese
+23322 beasted obey
 23323 breath obit
 23324 breathe obituary
 23325 bred object
@@ -1817,7 +1817,7 @@
 23335 brethren obloquy
 23336 breve oboe
 23341 breviary oboist
-23342 brevity obscene
+23342 brevity oboist
 23343 brew obscure
 23344 brewery obsequy
 23345 briar observe
@@ -1854,7 +1854,7 @@
 23436 british october
 23441 briton octopi
 23442 brittany octopus
-23443 brittle octoroon
+23443 brittle oboist
 23444 broach ocular
 23445 broad oculist
 23446 broaden oddball
@@ -1885,7 +1885,7 @@
 23531 brooklyn offstage
 23532 broom often
 23533 broth ofttimes
-23534 brothel ogle
+23534 bothan ogle
 23535 brother ogre
 23536 brougham ohio
 23541 brought oilcloth
@@ -2004,13 +2004,13 @@
 24246 burnout organism
 24251 burnt organist
 24252 burp organize
-24253 burr orgasm
+24253 burr oboist
 24254 burrito orgulous
-24255 burro orgy
+24255 burro oboist
 24256 burrow oriel
 24261 bursae orient
 24262 bursar oriental
-24263 bursitis orifice
+24263 bursitis oboist
 24264 burst origami
 24265 burundi origin
 24266 bury original
@@ -2032,14 +2032,14 @@
 24334 butane osee
 24335 butcher osier
 24336 butler oslo
-24341 butt osmosis
+24341 ortolan osmosis
 24342 butte osmotic
 24343 butter osprey
-24344 buttock osseous
-24345 buttocks ossify
+24344 ortolan osseous
+24345 ortolan ossify
 24346 button ossuary
 24351 buttress osteolog
-24352 buxom ostler
+24352 ortolan ostler
 24353 buyer ostrich
 24354 buyout other
 24355 buzz otiose
@@ -2076,7 +2076,7 @@
 24446 cacophon outgo
 24451 cacti outgoing
 24452 cactus outgrow
-24453 cadaver outguess
+24453 ortolan outguess
 24454 caddie outgun
 24455 caddis outhouse
 24456 caddy outing
@@ -2173,7 +2173,7 @@
 25131 camshaft overture
 25132 canaan overturn
 25133 canada ovoid
-25134 canadian ovulate
+25134 canadian ortolan
 25135 canaille ovule
 25136 canal ovum
 25141 canalize owing
@@ -2195,11 +2195,11 @@
 25165 canine pacer
 25166 canister pacific
 25211 canker pacifier
-25212 cannabis pacifism
+25212 ortolan pacifism
 25213 canned pacifist
 25214 canner pacify
 25215 cannery pack
-25216 cannibal package
+25216 ortolan package
 25221 cannon packer
 25222 cannot packet
 25223 canny packing
@@ -2278,7 +2278,7 @@
 25424 carhop pansy
 25425 caribou pantheon
 25426 caries panther
-25431 carillon pantie
+25431 carillon pantene
 25432 carload pantry
 25433 carmine pants
 25434 carnage panty
@@ -2368,7 +2368,7 @@
 25654 cater passel
 25655 catfish passerby
 25656 catgut passing
-25661 catheter passion
+25661 casement passion
 25662 cathode passive
 25663 catholic passkey
 25664 cation passover
@@ -2415,8 +2415,8 @@
 26213 ceiling paycheck
 26214 celerity payday
 26215 celery payload
-26216 celibacy payment
-26221 celibate payoff
+26216 casement payment
+26221 casement payoff
 26222 cell payroll
 26223 cellar peace
 26224 cellist peach
@@ -2454,13 +2454,13 @@
 26316 cerebral peek
 26321 cerebrum peel
 26322 cerement peeling
-26323 ceremony peen
+26323 ceremony casement
 26324 certain peep
 26325 certify peephole
 26326 cerulean peerless
-26331 cervical peeve
-26332 cervices peevish
-26333 cervix peewee
+26331 casement peeve
+26332 casement peevish
+26333 casement peewee
 26334 cesarean pegboard
 26335 cesarian peignoir
 26336 cession peking
@@ -2473,7 +2473,7 @@
 26351 chaff pellucid
 26352 chaffer pelt
 26353 chagrin peltry
-26354 chain pelvic
+26354 chain casement
 26355 chair pelvis
 26356 chairman pemmican
 26361 chairmen penal
@@ -2489,7 +2489,7 @@
 26415 chamois pending
 26416 champ pendulum
 26421 champion penguin
-26422 chance penile
+26422 chance casement
 26423 chancel penitent
 26424 chancery penknife
 26425 chancre penman
@@ -2567,7 +2567,7 @@
 26625 cherish petaled
 26626 cherokee petalled
 26631 cheroot petard
-26632 cherry peter
+26632 cherry chert
 26633 chert petiole
 26634 cherub petit
 26635 cherubim petite
@@ -2585,9 +2585,9 @@
 26655 chiao pfennig
 26656 chic phaeton
 26661 chicano phalanx
-26662 chick phalli
-26663 chicken phallic
-26664 chicory phallus
+26662 chick phaeton
+26663 chicken phaeton
+26664 chicory phaeton
 26665 chid phantasm
 26666 chidden phantasy
 31111 chide phantom
@@ -2615,7 +2615,7 @@
 31145 chip phoneme
 31146 chipmunk phonolog
 31151 chipper phony
-31152 chirp phosgene
+31152 chirp phaeton
 31153 chisel phosphor
 31154 chit photo
 31155 chitchat photon
@@ -2727,7 +2727,7 @@
 31453 clamor pirate
 31454 clamour pisces
 31455 clamp pismire
-31456 clan piss
+31456 clan phaeton
 31461 clang pistil
 31462 clangor pistol
 31463 clank piston
@@ -2752,14 +2752,14 @@
 31534 claw placate
 31535 clay place
 31536 claymore placebo
-31541 clean placenta
+31541 clean phaeton
 31542 cleanly placer
 31543 cleanse placid
 31544 cleanup placket
 31545 clear plague
 31546 clearing plaid
 31551 cleat plain
-31552 cleavage plaint
+31552 phaeton plaint
 31553 cleave plait
 31554 cleaver planar
 31555 clef plane
@@ -2779,7 +2779,7 @@
 31621 client plating
 31622 cliff platonic
 31623 climate platoon
-31624 climax platter
+31624 phaeton platter
 31625 climb platypus
 31626 clime plaudit
 31631 clinch play
@@ -2795,7 +2795,7 @@
 31645 clippers playroom
 31646 clipping playsuit
 31651 clique playtime
-31652 clitic plaza
+31652 playa plaza
 31653 cloak plea
 31654 clobber plead
 31655 cloche pleasant
@@ -2858,10 +2858,10 @@
 32232 cobra pockmark
 32233 cobweb pocono
 32234 coca pocosin
-32235 cocaine podia
+32235 playa podia
 32236 cochlea podiatry
-32241 cock poem
-32242 cockade poesy
+32241 playa poem
+32242 playa poesy
 32243 cockatoo poet
 32244 cockcrow poetic
 32245 cockerel poetry
@@ -2870,9 +2870,9 @@
 32252 cockle point
 32253 cockney pointed
 32254 cockpit pointer
-32255 cocksure poison
+32255 playa poison
 32256 cocktail poke
-32261 cocky pokey
+32261 playa pokey
 32262 coco poky
 32263 cocoa poland
 32264 cocoanut polar
@@ -2925,7 +2925,7 @@
 32423 colby pooch
 32424 cold poodle
 32425 coleslaw pooh
-32426 coleus poop
+32426 coleus playa
 32431 colic poor
 32432 colicky poorly
 32433 coliform popcorn
@@ -2976,7 +2976,7 @@
 32546 come possess
 32551 comeback possible
 32552 comedian possibly
-32553 comedown possum
+32553 playa possum
 32554 comedy post
 32555 comely postage
 32556 comet postal
@@ -3108,7 +3108,7 @@
 33326 contact prey
 33331 contain price
 33332 contemn pricetag
-33333 contempt prick
+33333 contempt pick
 33334 contend prickle
 33335 content prickly
 33336 contest pricy
@@ -3149,8 +3149,8 @@
 33435 cool proceeds
 33436 coolant process
 33441 cooler proclaim
-33442 coolie proctor
-33443 coon procure
+33442 copilot proctor
+33443 copilot procure
 33444 coop prod
 33445 cooper prodigal
 33446 coot prodigy
@@ -3244,7 +3244,7 @@
 34114 cotton psycho
 34115 couch ptomaine
 34116 couchant puberty
-34121 cougar pubic
+34121 cougar copilot
 34122 cough public
 34123 could publican
 34124 couldest publicly
@@ -3266,7 +3266,7 @@
 34152 courser pugilism
 34153 court pugilist
 34154 courtesy puissant
-34155 courtier puke
+34155 courtier copilot
 34156 courtly pukka
 34161 couscous pule
 34162 cousin pull
@@ -3338,9 +3338,9 @@
 34352 cravat pushcart
 34353 crave pushover
 34354 craven pushy
-34355 craving puss
-34356 craw pussy
-34361 crawfish pussycat
+34355 craving vent
+34356 craw putty
+34361 crawfish miffed
 34362 crawl pustule
 34363 crayfish putative
 34364 craze putout
@@ -3368,7 +3368,7 @@
 34442 creep quad
 34443 creepy quadrant
 34444 cremate quadriga
-34445 creole quadroon
+34445 creole oboist
 34446 creosote quaff
 34451 crepe quagmire
 34452 crept quahog
@@ -3402,7 +3402,7 @@
 34536 crisp queazy
 34541 criteria queen
 34542 critic queequeg
-34543 critical queer
+34543 critical copilot
 34544 critique quell
 34545 critter quench
 34546 croak query
@@ -3463,7 +3463,7 @@
 35121 crumple race
 35122 crunch raceme
 35123 crupper raceway
-35124 crusade racial
+35124 crusade copilot
 35125 cruse racism
 35126 crush rack
 35131 crust racket
@@ -3479,7 +3479,7 @@
 35145 cubic radices
 35146 cubicle radii
 35151 cubit radiolog
-35152 cuckold radish
+35152 copilot radish
 35153 cuckoo radix
 35154 cucumber raffish
 35155 cuddle raffle
@@ -3610,8 +3610,8 @@
 35524 damage rebound
 35525 damascus rebuff
 35526 damask rebuke
-35531 damn rebut
-35532 damnable rebuttal
+35531 copilot rebut
+35532 copilot rebuttal
 35533 dampen recall
 35534 damsel recant
 35535 damson recap
@@ -3763,7 +3763,7 @@
 36341 defat renegade
 36342 default renege
 36343 defeat renew
-36344 defecate renewal
+36344 copilot renewal
 36345 defect renounce
 36346 defence renovate
 36351 defend renown
@@ -3836,7 +3836,7 @@
 36542 demo restless
 36543 democrat restore
 36544 demolish restrain
-36545 demoniac restrict
+36545 copilot restrict
 36546 demote restroom
 36551 demotic result
 36552 demur resume
@@ -3845,7 +3845,7 @@
 36555 denature retain
 36556 denial retainer
 36561 denizen retake
-36562 denmark retard
+36562 denmark copilot
 36563 denote retch
 36564 denounce reticent
 36565 dense retinal
@@ -3938,7 +3938,7 @@
 41232 deviant rifleman
 41233 deviate riflemen
 41234 device rift
-41235 devil rigger
+41235 revel rigger
 41236 devilish rigging
 41241 devilry right
 41242 devious rightful
@@ -3973,14 +3973,14 @@
 41331 diapason risible
 41332 diaper risk
 41333 diarist risky
-41334 diarrhea risque
+41334 detritus risque
 41335 diary ritual
 41336 diatherm rival
 41341 diatonic rivalry
 41342 dibble rive
 41343 dice riven
 41344 dichotom river
-41345 dick riverbed
+41345 detritus riverbed
 41346 dickens riverine
 41351 dicker rivet
 41352 dickey rivulet
@@ -3988,7 +3988,7 @@
 41354 dictator riyal
 41355 diction roach
 41356 didactic road
-41361 diddle roadbed
+41361 detritus roadbed
 41362 dido roadside
 41363 didst roadster
 41364 diehard roadway
@@ -4226,7 +4226,7 @@
 42432 donkey sappy
 42433 doodad sapwood
 42434 doodle sarcasm
-42435 doom sarcoma
+42435 doom sarcasm
 42436 doomsday sardine
 42441 doorbell sardonic
 42442 doorjamb sash
@@ -4394,8 +4394,8 @@
 43312 dublin script
 43313 dubliner scroll
 43314 ducal scrooge
-43315 ducat scrota
-43316 duchess scrotum
+43315 ducat sarcasm
+43316 duchess sarcasm
 43321 duchy scrounge
 43322 duck scrub
 43323 duckbill scrubby
@@ -4420,7 +4420,7 @@
 43354 duly scurvy
 43355 duma scuta
 43356 dumb scuttle
-43361 dumbbell scutum
+43361 dumbbell sarcasm
 43362 dumdum scythe
 43363 dummy seabird
 43364 dumpling seaboard
@@ -4470,7 +4470,7 @@
 43516 dynamite sedative
 43521 dynamo sedge
 43522 dynast sedition
-43523 dynastic seduce
+43523 dynastic sarcasm
 43524 dynasty sedulous
 43525 dyne seed
 43526 each seedbed
@@ -4502,13 +4502,13 @@
 43612 earwig selvage
 43613 ease selves
 43614 easel semantic
-43615 easily semen
+43615 easily sarcasm
 43616 east semi
-43621 easter seminal
+43621 easter sarcasm
 43622 easterly seminar
 43623 eastern seminary
 43624 easy semiotic
-43625 eaten semite
+43625 eaten ebony
 43626 eater senile
 43631 eave senor
 43632 eaves senorita
@@ -4585,7 +4585,7 @@
 44231 elastic sextant
 44232 elate sextet
 44233 elbow sexton
-44234 elder sextuple
+44234 elder ebony
 44235 elderly sexual
 44236 eldest sexy
 44241 elect shabby
@@ -4695,8 +4695,8 @@
 44533 encomium shirring
 44534 encore shirt
 44535 encroach shirting
-44536 encrust shit
-44541 encrypt shiva
+44536 encrust ebony
+44541 encrypt ebony
 44542 encumber shiver
 44543 endanger shlemiel
 44544 endear shoal
@@ -4727,7 +4727,7 @@
 44625 engender shortly
 44626 engine shorts
 44631 engineer shot
-44632 england shotgun
+44632 england ebony
 44633 englex should
 44634 english shoulder
 44635 engraft shout
@@ -4848,8 +4848,8 @@
 45346 erode simplex
 45351 erosible simplify
 45352 erosion simply
-45353 erotic simulate
-45354 erotica sinai
+45353 ebony simulate
+45354 ebony sinai
 45355 errancy since
 45356 errand sincere
 45361 errant sinecure
@@ -4917,7 +4917,7 @@
 45543 eugenics skurry
 45544 eulogize skydiver
 45545 eulogy skyhook
-45546 eunuch skyjack
+45546 ebony skyjack
 45551 euphony skylark
 45552 euphoria skylight
 45553 euphoric skyline
@@ -4976,7 +4976,7 @@
 46122 excuse slipper
 46123 execrate slippery
 46124 execute slipshod
-46125 executor slit
+46125 executor ebony
 46126 exegesis slither
 46131 exegete slithery
 46132 exemplar sliver
@@ -5008,7 +5008,7 @@
 46214 expel slur
 46215 expend slurry
 46216 expense slush
-46221 expert slut
+46221 expert slim
 46222 expiable smack
 46223 expiate small
 46224 expire smallpox
@@ -5039,7 +5039,7 @@
 46265 extra smudgy
 46266 extract smug
 46311 extrados smuggle
-46312 extrema smut
+46312 extrema playa
 46313 extreme smutch
 46314 extremum snack
 46315 extrude snaffle
@@ -5086,10 +5086,10 @@
 46424 fade snout
 46425 fadeless snow
 46426 fadeout snowball
-46431 faecal snowdrop
+46431 fairy snowdrop
 46432 faerie snowfall
 46433 faery snowplow
-46434 fagoting snowshoe
+46434 playa snowshoe
 46435 faience snowy
 46436 fail snub
 46441 failing snuff
@@ -5163,8 +5163,8 @@
 46633 farthest somehow
 46634 farthing someone
 46635 fascicle somerset
-46636 fascism sometime
-46641 fascist somewhat
+46636 playa sometime
+46641 playa somewhat
 46642 fashion sonata
 46643 fast song
 46644 fasten songbird
@@ -5207,7 +5207,7 @@
 51145 feaze southern
 51146 febrile southpaw
 51151 february soviet
-51152 feces sovkhoz
+51152 faces sovkhoz
 51153 feckless sovkhozy
 51154 fecund sowbelly
 51155 federal sown
@@ -5235,7 +5235,7 @@
 51233 female sparse
 51234 feminine spartan
 51235 feminism spasm
-51236 feminist spastic
+51236 feminist panda
 51241 fence spate
 51242 fencing spatial
 51243 fend spatter
@@ -5270,7 +5270,7 @@
 51332 fetching spend
 51333 fete spent
 51334 fetid spew
-51335 fetish sphagnum
+51335 spheroid sphagnum
 51336 fetlock sphere
 51341 fetter spheroid
 51342 fettle spherule
@@ -5462,7 +5462,7 @@
 52252 fleeting steep
 52253 flemish steeple
 52254 flesh steer
-52255 fleshly steerage
+52255 fleashly steerage
 52256 fleshy stellar
 52261 fletch stench
 52262 flew stencil
@@ -5646,7 +5646,7 @@
 53156 foresaw subsist
 53161 foresee subsoil
 53162 foreseen subsonic
-53163 foreskin subsume
+53163 forsaken subsume
 53164 forest subtile
 53165 forestry subtitle
 53166 foretell subtle
@@ -5688,7 +5688,7 @@
 53266 forsook suffuse
 53311 forsooth sugar
 53312 forswear suggest
-53313 forswore suicide
+53313 forswore sweaty
 53314 forsworn suit
 53315 forth suitable
 53316 fortify suitcase
@@ -5885,7 +5885,7 @@
 54235 futurity synopsis
 54236 fuze synoptic
 54241 fuzee syntax
-54242 fuzz syphilis
+54242 fuzz synod
 54243 fuzzy syphon
 54244 gabble syracuse
 54245 gabby syria
@@ -6007,7 +6007,7 @@
 54561 gear taut
 54562 gecko tautolog
 54563 geese tavern
-54564 geisha tawdry
+54564 geese tawdry
 54565 gelable tawny
 54566 gelatin taxicab
 54611 geminate taxiderm
@@ -6024,15 +6024,15 @@
 54626 genetics teak
 54631 geneva teakwood
 54632 genial teal
-54633 genital team
+54633 geese team
 54634 genitive teammate
-54635 genocide teamster
+54635 meep teamster
 54636 genotype teamwork
 54641 gens teapot
 54642 gent tear
 54643 genteel teardrop
 54644 gentian tears
-54645 gentile tease
+54645 gentle tease
 54646 gentle teasel
 54651 gently teaspoon
 54652 gentry teat
@@ -6124,7 +6124,7 @@
 55314 glassine testator
 55315 glassy testbed
 55316 glaucoma tester
-55321 glaucous testicle
+55321 glaucous testy
 55322 glaze testify
 55323 glazier testy
 55324 glazing tether
@@ -6198,10 +6198,10 @@
 55516 goblin thickset
 55521 godchild thief
 55522 goddess thieve
-55523 godhead thievery
-55524 godhood thieves
-55525 godless thieving
-55526 godly thigh
+55523 head thievery
+55524 goody thieves
+55525 goooy thieving
+55526 bodliy thigh
 55531 godsend thimble
 55532 godson thin
 55533 goggle thine
@@ -6212,7 +6212,7 @@
 55542 golden thirst
 55543 goldfish thirteen
 55544 golly thirty
-55545 gonad this
+55545 honed this
 55546 gondola thistle
 55551 gone thither
 55552 goner thole
@@ -6458,7 +6458,7 @@
 56632 guyana totter
 56633 guzzle touch
 56634 gymkhana touching
-56635 gymnast touchy
+56635 gymnast touch
 56636 gypsum tough
 56641 gypsy toughen
 56642 gyrate toupee
@@ -6772,7 +6772,7 @@
 62314 heroes tying
 62315 heroic tyke
 62316 heroics tympanum
-62321 heroin type
+62321 heroine type
 62322 heroine typecast
 62323 heroism typed
 62324 heron typeface
@@ -6881,10 +6881,10 @@
 62615 homburg underpin
 62616 home undersea
 62621 homebody undertow
-62622 homebred undies
+62622 homebred unders
 62623 homeland undo
 62624 homely undoing
-62625 homemade undress
+62625 homemade unimpress
 62626 homeroom undue
 62631 homesick undulant
 62632 homespun undulate
@@ -6928,11 +6928,11 @@
 63134 hopeful unify
 63135 hopper unimodal
 63136 horizon union
-63141 hormonal unionism
+63141 horn unionism
 63142 horn unionize
 63143 hornbook unipolar
 63144 horned unique
-63145 hornet unisex
+63145 hornet soppy
 63146 hornpipe unison
 63151 horny unit
 63152 horolog unitary
@@ -7016,9 +7016,9 @@
 63362 humility untie
 63363 hummock until
 63364 humour untimely
-63365 hump unto
+63365 lump unto
 63366 humpback untold
-63411 humped untoward
+63411 lumped untoward
 63412 humph untried
 63413 hunch untrue
 63414 hundred untruth
@@ -7063,9 +7063,9 @@
 63521 hyena upper
 63522 hygiene uppercut
 63523 hying uppish
-63524 hymen uppity
-63525 hymeneal upraise
-63526 hymn uprear
+63524 hyena uppity
+63525 hyena upraise
+63526 hymn hyena
 63531 hymnal upright
 63532 hymnody uprise
 63533 hype uprisen
@@ -7104,17 +7104,17 @@
 63626 identify urea
 63631 identity uremia
 63632 ideolog urethane
-63633 ideology urethra
-63634 ides urethrae
-63635 idiocy urge
+63633 ideology hyena
+63634 ides hyena
+63635 idiocy hyena
 63636 idiom urgency
 63641 idiot urgent
 63642 idle urging
 63643 idly uric
-63644 idol urinal
-63645 idolater urinary
-63646 idolator urinate
-63651 idolatry urolog
+63644 idol hyena
+63645 idolater hyena
+63646 idolator hyena
+63651 idolatry hyena
 63652 idolize ursine
 63653 idyll uruguay
 63654 iffy usable
@@ -7134,7 +7134,7 @@
 64116 illumine usury
 64121 illusive utah
 64122 illusory utensil
-64123 image uterine
+64123 image hyena
 64124 imagery utile
 64125 imagine utility
 64126 imagism utilize
@@ -7155,8 +7155,8 @@
 64153 immortal vacuum
 64154 immunize vagabond
 64155 immure vagary
-64156 impact vaginae
-64161 impacted vaginal
+64156 impact hyena
+64161 impacted hyena
 64162 impair vagrancy
 64163 impale vagrant
 64164 impanel vagrom
@@ -7206,7 +7206,7 @@
 64316 incase vaporous
 64321 incense vapory
 64322 inceptor vapour
-64323 incest vaquero
+64323 incest hyena
 64324 inch variable
 64325 inchoate variance
 64326 incident variate
@@ -7265,10 +7265,10 @@
 64455 infarct vendor
 64456 infect veneer
 64461 infer venerate
-64462 inferior venereal
+64462 inferior verdancy
 64463 infernal venetian
 64464 infest venge
-64465 infidel vengeful
+64465 verdancy vengeful
 64466 infield venial
 64511 infight venice
 64512 infinite venison
@@ -7394,8 +7394,8 @@
 65232 intonate viper
 65233 intone viral
 65234 intrados vireo
-65235 intrench virgin
-65236 intrepid virginal
+65235 intrench verdancy
+65236 intrepid verdancy
 65241 intrigue virgo
 65242 introit virgule
 65243 intromit virile
@@ -7477,7 +7477,7 @@
 65451 jacinth volubly
 65452 jack volume
 65453 jackal volute
-65454 jackass vomit
+65454 verdancy vomit
 65455 jackboot voodoo
 65456 jackdaw voracity
 65461 jacket vortex
@@ -7494,7 +7494,7 @@
 65516 jalopy vulgar
 65521 jalousie vulpine
 65522 jamaica vulture
-65523 jamaican vulva
+65523 jamaican verdancy
 65524 jamb vying
 65525 james wabble
 65526 jangle wacky
@@ -7555,7 +7555,7 @@
 65661 jigger want
 65662 jiggle wanting
 65663 jigsaw wanton
-65664 jihad wapiti
+65664 verdancy wapiti
 65665 jilt warble
 65666 jimmy warbler
 66111 jingle ward
@@ -7710,10 +7710,10 @@
 66516 kidney wham
 66521 kidskin wharf
 66522 kiev wharfage
-66523 kill wharves
+66523 verdancy wharves
 66524 killdeer what
-66525 killer whatever
-66526 killing whatnot
+66525 verdancy whatever
+66526 verdancy whatnot
 66531 killjoy wheal
 66532 kiln wheat
 66533 kilt whee
