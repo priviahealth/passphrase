@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.license     = "MIT"
   spec.summary     = "Generate passphrases using the Diceware Method"
   spec.description = <<-EOF
-    Passphrase is a library and command-line tool for generating passphrases
+    Modified By PriviaHealth (jsawers) - Passphrase is a library and command-line tool for generating passphrases
     using the Diceware Method. The method selects words from a predefined
     database of more-or-less recognizable words, making the resulting
     passphrases easier to remember and type. And because the words are selected
